@@ -118,6 +118,6 @@ This repository is a cleaned, documented portfolio package based on the source f
 
 ## Author
 
-**Tanzeel Ul Rehman** — Team Lead (as identified in the supplied project presentation)
+**Tanzeel Ul Rehman** — Team Lead
 
 GitHub: [@devtanzeel1](https://github.com/devtanzeel1)
